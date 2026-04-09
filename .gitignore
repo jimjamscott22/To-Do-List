@@ -1,0 +1,12 @@
+# Build
+build/
+
+# Qt
+*.autosave
+.qmake.stash
+
+# Editor / OS
+.vscode/
+*.swp
+*.swo
+.DS_Store

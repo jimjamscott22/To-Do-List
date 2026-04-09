@@ -10,7 +10,7 @@ set(CMAKE_AUTOUIC ON)
 find_package(Qt6 REQUIRED COMPONENTS Widgets)
 
 set(PROJECT_SOURCES
-    main.c
+    main.cpp
     mainwindow.cpp
     mainwindow.h
 )
